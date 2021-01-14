@@ -1,0 +1,60 @@
+				<div class="gallery__item category1">
+					<div class="gallery__item__image"> <img src="images/gallery/gallery-img-01.jpg" alt="" /> <a class="btn btn-lg" href="images/gallery/gallery-img-01.jpg">zoom</a> </div>
+				</div>
+				<div class="gallery__item doubleW doubleH category1">
+					<div class="gallery__item__image"> <img src="images/gallery/gallery-img-02.jpg" alt="" /> <a class="btn btn-lg" href="images/gallery/gallery-img-02.jpg">zoom</a> </div>
+				</div>
+				<div class="gallery__item category2">
+					<div class="gallery__item__image"> <img src="images/gallery/gallery-img-03.jpg" alt="" /> <a class="btn btn-lg" href="images/gallery/gallery-img-03.jpg">zoom</a> </div>
+				</div>
+				<div class="gallery__item category3 category2">
+					<div class="gallery__item__image"> <img src="images/gallery/gallery-img-04.jpg" alt="" /> <a class="btn btn-lg" href="images/gallery/gallery-img-04.jpg">zoom</a> </div>
+				</div>
+				<div class="gallery__item doubleW category1">
+					<div class="gallery__item__image"> <img src="images/gallery/gallery-img-05.jpg" alt="" /> <a class="btn btn-lg" href="images/gallery/gallery-img-05.jpg">zoom</a> </div>
+				</div>
+				<div class="gallery__item category2">
+					<div class="gallery__item__image"> <img src="images/gallery/gallery-img-06.jpg" alt="" /> <a class="btn btn-lg" href="images/gallery/gallery-img-06.jpg">zoom</a> </div>
+				</div>
+				<div class="gallery__item doubleH">
+					<div class="gallery__item__image"> <img src="images/gallery/gallery-img-07.jpg" alt="" /> <a class="btn btn-lg" href="images/gallery/gallery-img-07.jpg">zoom</a> </div>
+				</div>
+				<div class="gallery__item category2">
+					<div class="gallery__item__image"> <img src="images/gallery/gallery-img-08.jpg" alt="" /> <a class="btn btn-lg" href="images/gallery/gallery-img-08.jpg">zoom</a> </div>
+				</div>
+				<div class="gallery__item category1 category3 category2">
+					<div class="gallery__item__image"> <img src="images/gallery/gallery-img-09.jpg" alt="" /> <a class="btn btn-lg" href="images/gallery/gallery-img-09.jpg">zoom</a> </div>
+				</div>
+				<div class="gallery__item doubleW doubleH category3">
+					<div class="gallery__item__image"> <img src="images/gallery/gallery-img-10.jpg" alt="" /> <a class="btn btn-lg" href="images/gallery/gallery-img-10.jpg">zoom</a> </div>
+				</div>
+				<div class="gallery__item doubleH">
+					<div class="gallery__item__image  category3"> <img src="images/gallery/gallery-img-11.jpg" alt="" /> <a class="btn btn-lg" href="images/gallery/gallery-img-11.jpg">zoom</a> </div>
+				</div>
+				<div class="gallery__item category1 category3 category2">
+					<div class="gallery__item__image"> <img src="images/gallery/gallery-img-12.jpg" alt="" /> <a class="btn btn-lg" href="images/gallery/gallery-img-12.jpg">zoom</a> </div>
+				</div>
+				<div class="gallery__item category1 category3 category2">
+					<div class="gallery__item__image"> <img src="images/gallery/gallery-img-13.jpg" alt="" /> <a class="btn btn-lg" href="images/gallery/gallery-img-13.jpg">zoom</a> </div>
+				</div>
+				<div class="gallery__item category3 category2">
+					<div class="gallery__item__image"> <img src="images/gallery/gallery-img-14.jpg" alt="" /> <a class="btn btn-lg" href="images/gallery/gallery-img-14.jpg">zoom</a> </div>
+				</div>
+				<div class="gallery__item doubleH">
+					<div class="gallery__item__image"> <img src="images/gallery/gallery-img-15.jpg" alt="" /> <a class="btn btn-lg" href="images/gallery/gallery-img-15.jpg">zoom</a> </div>
+				</div>
+				<div class="gallery__item category1 category2 category3">
+					<div class="gallery__item__image"> <img src="images/gallery/gallery-img-16.jpg" alt="" /> <a class="btn btn-lg" href="images/gallery/gallery-img-16.jpg">zoom</a> </div>
+				</div>
+				<div class="gallery__item category2">
+					<div class="gallery__item__image"> <img src="images/gallery/gallery-img-17.jpg" alt="" /> <a class="btn btn-lg" href="images/gallery/gallery-img-17.jpg">zoom</a> </div>
+				</div>
+				<div class="gallery__item category2">
+					<div class="gallery__item__image"> <img src="images/gallery/gallery-img-18.jpg" alt="" /> <a class="btn btn-lg" href="images/gallery/gallery-img-18.jpg">zoom</a> </div>
+				</div>
+				<div class="gallery__item category1 category3">
+					<div class="gallery__item__image"> <img src="images/gallery/gallery-img-19.jpg" alt="" /> <a class="btn btn-lg" href="images/gallery/gallery-img-19.jpg">zoom</a> </div>
+				</div>
+				<div class="gallery__item category3 category2">
+					<div class="gallery__item__image"> <img src="images/gallery/gallery-img-20.jpg" alt="" /> <a class="btn btn-lg" href="images/gallery/gallery-img-20.jpg">zoom</a> </div>
+				</div>

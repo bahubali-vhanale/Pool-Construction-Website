@@ -1,0 +1,39 @@
+					<div class="blog-post">
+						<div class="post-image">
+							<a href="blog-single.html"><img src="images/blog/blog-post-img-1.jpg" alt=""></a>
+						</div>
+						<h3 class="post-title">Getting your pool ready to swim</h3>
+						<ul class="post-meta">
+							<li><i>by</i> <b>Paul Johnson</b></li>
+							<li><i class="icon icon-clock"></i><span>Thursday, May 01, 2017</span></li>
+							<li><i class="icon icon-comments"></i><span>3</span></li>
+						</ul>
+						<div class="post-teaser">
+							<p>For clients of Pool Service there is still one month to take advantage of our Spring Special Filter maintenance and equipment check.</p>
+						</div>
+						<a href="blog-single.html" class="btn">Continue Reading</a>
+					</div>
+					<div class="blog-post">
+						<div class="post-image">
+							<a href="#"><img src="images/blog/blog-post-img-3.jpg" alt=""></a>
+							<div class="post-link-wrapper">
+								<div class="vert-wrapper">
+									<div class="vert">
+										<a href="#" class="post-link">
+									http://www.poolserviceslink.com
+								</a>
+									</div>
+								</div>
+							</div>
+						</div>
+						<h3 class="post-title">Getting your pool ready to swim</h3>
+						<ul class="post-meta">
+							<li><i>by</i> <b>Paul Johnson</b></li>
+							<li><i class="icon icon-clock"></i><span>Thursday, May 01, 2017</span></li>
+							<li><i class="icon icon-comments"></i><span>3</span></li>
+						</ul>
+						<div class="post-teaser">
+							<p>For clients of Pool Service there is still one month to take advantage of our Spring Special Filter maintenance and equipment check.</p>
+						</div>
+						<a href="blog-single.html" class="btn">Continue Reading</a>
+					</div>

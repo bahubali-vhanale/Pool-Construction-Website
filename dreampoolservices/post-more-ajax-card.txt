@@ -1,0 +1,70 @@
+				<div class="blog-post">
+					<div class="post-image">
+						<a href="blog-single.html"><img src="images/blog/blog-post-img-3.jpg" alt=""></a>
+						<div class="post-link-wrapper">
+							<div class="vert-wrapper">
+								<div class="vert">
+									<a href="#" class="post-link">http://www.poolserviceslink.com</a>
+								</div>
+							</div>
+						</div>
+					</div>
+					<h3 class="post-title">Two Important Milestones</h3>
+					<ul class="post-meta">
+						<li><i>by</i> <b>Paul Johnson</b></li>
+						<li><i class="icon icon-clock"></i><span>Thursday, May 01, 2017</span></li>
+						<li><i class="icon icon-comments"></i><span>3</span></li>
+					</ul>
+					<div class="post-teaser">
+						<p>For clients of Pool Service there is still one month to take advantage of our Spring Special Filter maintenance and equipment check.</p>
+					</div>
+					<a href="blog-single.html" class="btn">Continue Reading</a>
+				</div>
+				<div class="blog-post">
+					<div class="post-image">
+						<div class="post-video">
+							<iframe src="https://player.vimeo.com/video/175491892"></iframe>
+						</div>
+					</div>
+					<h3 class="post-title">Swimming Pools and Chemical Safety</h3>
+					<ul class="post-meta">
+						<li><i>by</i> <b>Paul Johnson</b></li>
+						<li><i class="icon icon-clock"></i><span>May 01, 2014</span></li>
+						<li><i class="icon icon-comments"></i><span>3</span></li>
+					</ul>
+					<div class="post-teaser">
+						<p>Salt is converted to chlorine through the process of electrolysis, and salt levels aren't reduced as a product of evaporation.</p>
+					</div>
+					<a href="blog-single.html" class="btn">Continue Reading</a>
+				</div>
+				<div class="blog-post blog-post-noimg">
+					<h3 class="post-title">Understanding Routine Water Testing</h3>
+					<ul class="post-meta">
+						<li><i>by</i> <b>Paul Johnson</b></li>
+						<li><i class="icon icon-clock"></i><span>May 01, 2014</span></li>
+						<li><i class="icon icon-comments"></i><span>3</span></li>
+					</ul>
+					<div class="post-teaser">
+						<div class="quote">
+							<p>Thousands of you have already taken advantage of this service where we bundle all these activities and give you a discount to perform these services. Of course we do these things year round, but in the spring when most clients need it we do it for a reduced price. We believe you should be free of the worries and concerns of your pool so that you are truly free to enjoy your pool. </p>
+						</div>
+					</div>
+					<a href="blog-single.html" class="btn">Continue Reading</a>
+				</div>
+				<div class="blog-post">
+					<div class="post-image">
+						<div class="post-music">
+							<iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/289273380&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
+						</div>
+					</div>
+					<h3 class="post-title">Swimming Pools and Chemical Safety</h3>
+					<ul class="post-meta">
+						<li><i>by</i> <b>Paul Johnson</b></li>
+						<li><i class="icon icon-clock"></i><span>May 01, 2014</span></li>
+						<li><i class="icon icon-comments"></i><span>3</span></li>
+					</ul>
+					<div class="post-teaser">
+					</div>
+					<a href="blog-single.html" class="btn">Continue Reading</a>
+				</div>
